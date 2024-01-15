@@ -1,4 +1,4 @@
-<h1 align="center" id="title">College Admission A&A Bot </h1>
+<h1 align="center" id="title">College Admission Q&A Bot </h1>
 
 ## Overview
 
